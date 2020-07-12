@@ -21,19 +21,29 @@
 
 #MAKE SURE TO PLACE THE FILES IN THE SAME FOLDER AS THE PYTHON SCRIPT
 
+-----------------------------------------------------------------------------------------------
+
 #CURRENTLY DESIGNED FOR LOG FILES, 
+
 HENCE IF THE FILE CONTAINS REPEATED LINES,
+
 THEN PREVIOUS LINES/AFTER LINES MAY NOT BE ACCURATE.
+
 SINCE LOG FILES DEALS WITH TIME AND DATE,
+
 ITS ASSUMED THAT EVERY LINE WILL HAVE
+
 SOME CHANGE IN IT.
 
+-------------------------------------------------------------------------------------------------
 
 #EITHER WAY THE CURRENT LINE i.e THE LINE WHICH
 
 CONTAINS THE USER INPUT IS ASSURED TO BE RETURNED
 
 AND WRITTEN INTO A NEW FILE
+
+-------------------------------------------------------------------------------------------------
 
 
 
