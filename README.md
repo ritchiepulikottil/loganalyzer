@@ -1,4 +1,4 @@
-# LogAnalyser.py
+# LogAnalyzer.py
 #A python script to search a file for the user input
 
 
