@@ -1,5 +1,5 @@
 
-#SeRitch Everything
+#SearchEverythingPro.py
 #Python Script to search a file | return its current, previous and next line | write the obtained result i.e the current line into a new file.
 
 while True:
