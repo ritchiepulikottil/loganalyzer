@@ -65,7 +65,7 @@ AND WRITTEN INTO A NEW FILE
  to look for each of the ERROR keywords
  
  
-#In such situations SeRitchEverything helps you to find the ERROR keyword 
+#In such situations LogAnalyzer helps you to find the ERROR keyword 
  in the file, retrieve its entire line, also retrieve its previous and next lines
  for further clarification on what happened before and after the server failed
  
