@@ -1,0 +1,8 @@
+title: LogAnalyzer.py
+description: LOG SEARCH MADE EASY :)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
